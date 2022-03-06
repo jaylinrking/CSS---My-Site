@@ -40,6 +40,11 @@ a {
   position: relative;
 }
 
+.profile img {
+  border-radius: 50%;
+  padding-top: 50px;
+}
+
 .bottom-container {
   background-color: #E4F9F5;
   position: relative;
@@ -68,6 +73,8 @@ a {
   text-align: left;
   line-height: 2;
 }
+
+
 
 .computer {
   width: 25%;
